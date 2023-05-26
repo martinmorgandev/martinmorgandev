@@ -5,6 +5,8 @@
 
 <a href="https://ibb.co/1QCYJKT"><img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
 
+<a href="https://ibb.co/8bQW7tk"><img src="https://i.ibb.co/jzjcrst/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.jpg" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
