@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Martin Sanchez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
-<img src="https://imgur.com/a/HebD7h5">
+<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+
 <a href="https://ibb.co/1QCYJKT"><img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
