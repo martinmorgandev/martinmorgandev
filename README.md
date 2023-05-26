@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⭐ Github Star
+## Sobre mi
+
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+25k subs)
