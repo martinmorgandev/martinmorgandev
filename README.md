@@ -3,6 +3,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 <img src="https://imgur.com/a/HebD7h5">
+<a href="https://ibb.co/1QCYJKT"><img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
