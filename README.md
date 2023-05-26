@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Martin Sanchez</a> 👋</h1>
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
-<img src="[https://i.imgur.com/weNbhGZ.png](https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png)">
+<img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png">
 <a href="https://ibb.co/1QCYJKT"><img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
 
 <a href="https://ibb.co/8bQW7tk"><img src="https://i.ibb.co/jzjcrst/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.jpg" alt="Captura-de-pantalla-2023-05-25-a-la-s-20-35-09" border="0"></a>
