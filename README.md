@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 </p> 
 
 
+<!--
+
 ## Proyectos *bombitas*
 <table>
 <tr>
@@ -96,6 +98,8 @@ Here are some ideas to get you started:
 </table>                                                                                 
 </div>
 <br>
+
+-->
                                                                                        
 ### ⚙️ &nbsp;GitHub Analytics
                                                                                        
