@@ -3,7 +3,7 @@
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 <!-- <img src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png"> -->
-<img style="width: 100%" src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png">
+<!--<img style="width: 100%" src="https://i.ibb.co/9gxm32W/Captura-de-pantalla-2023-05-25-a-la-s-20-35-09.png">
 
 
 <!--
